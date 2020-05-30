@@ -1,0 +1,19 @@
+{
+  "name": "nameformatter",
+  "version": "1.0.0",
+  "description": "Format Names",
+  "main": "nameInverter.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N/A.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "homepage": "https://github.com/N/A#readme"
+}
